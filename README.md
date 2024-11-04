@@ -4,3 +4,4 @@
 * 
 `npx zenn new:article`
 `java -jar 'C:\Program Files\plantuml-mit-1.2024.7.jar' -o ./../../../images -charset UTF-8 ./src/plantuml/rdb/*`
+`npx zenn preview`
