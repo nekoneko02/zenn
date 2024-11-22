@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "zenn": "file:",
     "zenn-cli": "^0.1.157"
   }
 }
