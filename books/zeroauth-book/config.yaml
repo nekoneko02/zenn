@@ -1,0 +1,11 @@
+title: "ゼロから設計するOAuth"
+summary: "「ゼロからOAuthを設計するとどうなるの？」を出発点に、セキュリティ面も気にしながらゼロからOAuthを設計していきます。\nDay1から順番に設計改善していきます（順次公開予定です）。"
+topics: ["OAuth", "セキュリティ", "設計"]
+published: True
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - introduction
+  - day1
+  - day2
+  - day3

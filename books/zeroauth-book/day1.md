@@ -1,3 +1,6 @@
+---
+title: "Day1: zeroauthの最初の形"
+---
 # Day1
 
 まずは、ZeroAuthの最初の形を考えてみます。改めて、目的は以下です。
@@ -20,20 +23,18 @@
 
 ### パターン1
 
-```plantuml
-@startuml
-actor ユーザー as user
-rectangle クライアント as client
-rectangle "サービス" as service
+```mermaid
+flowchart LR
+    user(["ユーザー"])
+    client["クライアント"]
+    service["サービス"]
 
-user --> client: 1. サービスのパスワード
-client --> service: 2. サービスのパスワード
-service --> client: 3. tokenを返す
-client --> client: 4. パスワードは破棄\ntokenは保存
-client <--> service: 5. 以降、tokenを使ってAPI連携する
-user -.-> service: 直接アクセスしない
-
-@enduml
+    user -->|"1. サービスのパスワード"| client
+    client -->|"2. サービスのパスワード"| service
+    service -->|"3. tokenを返す"| client
+    client -->|"4. パスワードは破棄<br/>tokenは保存"| client
+    client <-->|"5. 以降、tokenを使ってAPI連携する"| service
+    user -. "直接アクセスしない" .-> service
 ```
 
 上図の通り、以下の流れでやり取りを行います：
@@ -46,19 +47,17 @@ user -.-> service: 直接アクセスしない
 
 ### パターン2
 
-```plantuml
-@startuml
-actor ユーザー as user
-rectangle クライアント as client
-rectangle "サービス" as service
+```mermaid
+flowchart LR
+    user(["ユーザー"])
+    client["クライアント"]
+    service["サービス"]
 
-user --> service: 1. サービスのパスワード
-service --> user: 2. tokenを返す
-user --> client: 3. tokenを渡す
-client --> client: 4. tokenは保存
-client <--> service: 5. 以降、tokenを使ってAPI連携する
-
-@enduml
+    user -->|"1. サービスのパスワード"| service
+    service -->|"2. tokenを返す"| user
+    user -->|"3. tokenを渡す"| client
+    client -->|"4. tokenは保存"| client
+    client <-->|"5. 以降、tokenを使ってAPI連携する"| service
 ```
 
 上図の通り、以下の流れでやり取りを行います：
