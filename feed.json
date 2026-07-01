@@ -1,0 +1,167 @@
+{
+  "platform": "zenn",
+  "items": [
+    {
+      "id": "0c9cb776fc3aff",
+      "title": "Googleのテクニカルライティング教材から学ぶ：要点とやりがちなミス",
+      "url": "https://zenn.dev/neko_student/articles/0c9cb776fc3aff",
+      "date_published": "2025-02-24T08:57:11.000Z",
+      "tags": ["テクニカルライティング"]
+    },
+    {
+      "id": "0d53251abf2061",
+      "title": "上級 MuleSoft デベロッパー（MCD2）を勉強するためだけのサンプルコード(Exchange, CICD)",
+      "url": "https://zenn.dev/neko_student/articles/0d53251abf2061",
+      "date_published": "2024-08-06T23:42:00.000Z",
+      "tags": ["mulesoft", "maven", "mcd2"]
+    },
+    {
+      "id": "15163e521ee576",
+      "title": "個人開発のホスティング先は、何を学びたいかで決めよう",
+      "url": "https://zenn.dev/neko_student/articles/15163e521ee576",
+      "date_published": "2026-02-01T01:57:38.000Z",
+      "tags": ["個人開発", "AWS"]
+    },
+    {
+      "id": "1d70a033f8d0e6",
+      "title": "ITエンジニア 新卒1年目の振り返り：先輩を盲信して失敗した話",
+      "url": "https://zenn.dev/neko_student/articles/1d70a033f8d0e6",
+      "date_published": "2024-07-15T00:00:00.000Z",
+      "tags": ["失敗談", "新卒"]
+    },
+    {
+      "id": "1fc9c40284c3ac",
+      "title": "ITエンジニア 新卒1年目の振り返り：業務周りで経験したこと",
+      "url": "https://zenn.dev/neko_student/articles/1fc9c40284c3ac",
+      "date_published": "2024-08-21T09:18:00.000Z",
+      "tags": ["業務", "新卒", "1年目"]
+    },
+    {
+      "id": "258cbed688e469",
+      "title": "ECS（EC2起動タイプ）aws-vpcモードで、コンテナに接続できずにハマった話 #初心者",
+      "url": "https://zenn.dev/neko_student/articles/258cbed688e469",
+      "date_published": "2024-11-04T02:11:17.000Z",
+      "tags": ["AWS", "ECS", "EC2", "ENI"]
+    },
+    {
+      "id": "4ade3600f0c0a6",
+      "title": "手段が目的化する本当の理由 ―― 「目的」という言葉が曖昧だから",
+      "url": "https://zenn.dev/neko_student/articles/4ade3600f0c0a6",
+      "date_published": "2026-06-04T14:12:22.000Z",
+      "tags": ["目的", "価値", "手段"]
+    },
+    {
+      "id": "4d1f60f546fb58",
+      "title": "ITエンジニア 新卒2年目の振り返り~業務経験まとめ~",
+      "url": "https://zenn.dev/neko_student/articles/4d1f60f546fb58",
+      "date_published": "2025-07-17T23:52:28.000Z",
+      "tags": ["新卒", "新卒2年目", "経験談"]
+    },
+    {
+      "id": "4dd840c506b04b",
+      "title": "ECS (EC2起動タイプ) が永遠に起動しない場合の対処法 #初心者",
+      "url": "https://zenn.dev/neko_student/articles/4dd840c506b04b",
+      "date_published": "2024-08-19T12:03:00.000Z",
+      "tags": ["aws", "docker", "初心者", "ec2", "ecs"]
+    },
+    {
+      "id": "579d5606bbe370",
+      "title": "IPA NWスペ・DBスペ持ちのAWS SAP合格体験記 〜教科書1周で問題集の正解率68%、実務経験なし新卒3年目が1ヶ月で合格〜",
+      "url": "https://zenn.dev/neko_student/articles/579d5606bbe370",
+      "date_published": "2026-05-02T05:14:37.000Z",
+      "tags": ["AWS", "SAP", "IPA", "資格", "合格体験記"]
+    },
+    {
+      "id": "58abdc0a4d6fa4",
+      "title": "ITエンジニア 新卒1年目の振り返り：初めての見積で大失敗",
+      "url": "https://zenn.dev/neko_student/articles/58abdc0a4d6fa4",
+      "date_published": "2024-08-31T05:43:00.000Z",
+      "tags": ["失敗談", "新卒", "1年目", "見積"]
+    },
+    {
+      "id": "595112769364f7",
+      "title": "データベーススペシャリスト合格体験記~新卒2年目で合格した勉強法と感想~",
+      "url": "https://zenn.dev/neko_student/articles/595112769364f7",
+      "date_published": "2025-01-03T08:26:47.000Z",
+      "tags": ["ipa", "DB", "情報処理技術者試験", "データベーススペシャリスト"]
+    },
+    {
+      "id": "5e9849afcdef0d",
+      "title": "OSSのデザインパターン解説シリーズ：Iteratorパターンの活用と悪いコード例",
+      "url": "https://zenn.dev/neko_student/articles/5e9849afcdef0d",
+      "date_published": "2024-05-22T23:58:00.000Z",
+      "tags": ["java", "配列", "デザインパターン", "list"]
+    },
+    {
+      "id": "640029c5af6989",
+      "title": "ITエンジニア 新卒1年目の振り返り：勉強したことまとめ",
+      "url": "https://zenn.dev/neko_student/articles/640029c5af6989",
+      "date_published": "2024-06-30T07:55:00.000Z",
+      "tags": ["勉強", "新卒", "新卒1年目"]
+    },
+    {
+      "id": "66cc065cf9f848",
+      "title": "RDBにおける、共有ロック/専有ロック・2相ロック・トランザクション分離レベルの関係をシーケンスで説明する",
+      "url": "https://zenn.dev/neko_student/articles/66cc065cf9f848",
+      "date_published": "2024-09-29T00:24:00.000Z",
+      "tags": ["sql", "rdb", "ロック", "シーケンス図", "トランザクション分離レベル"]
+    },
+    {
+      "id": "7e0384e0f1332f",
+      "title": "OSSのデザインパターン解説シリーズ：Singletonパターンの活用と悪いコード例",
+      "url": "https://zenn.dev/neko_student/articles/7e0384e0f1332f",
+      "date_published": "2024-06-16T23:20:00.000Z",
+      "tags": ["java", "singleton", "デザインパターン", "標準入出力"]
+    },
+    {
+      "id": "7ee0c6f158e898",
+      "title": "SQLの[SELECT .. FOR UPDATE]文で、ダーティリードとデッドロックを防ぐ #RDBMS",
+      "url": "https://zenn.dev/neko_student/articles/7ee0c6f158e898",
+      "date_published": "2024-10-14T02:52:29.000Z",
+      "tags": ["RDB", "RDBMS", "SQL", "ロック"]
+    },
+    {
+      "id": "879a3cc5fdc1c5",
+      "title": "令和7年度ネットワークスペシャリスト受験体験記~新卒3年目の勉強法と感想~",
+      "url": "https://zenn.dev/neko_student/articles/879a3cc5fdc1c5",
+      "date_published": "2025-04-23T11:31:38.000Z",
+      "tags": ["IPA", "ネスペ", "ネットワークスペシャリスト", "資格"]
+    },
+    {
+      "id": "8861b63a2d9598",
+      "title": "Anypoint Code BuilderでRun and Debugができない場合の対処法",
+      "url": "https://zenn.dev/neko_student/articles/8861b63a2d9598",
+      "date_published": "2024-09-16T14:01:00.000Z",
+      "tags": ["vscode", "mulesoft", "visualstudiocode", "anypoint"]
+    },
+    {
+      "id": "d2f9e6abe8727a",
+      "title": "OSSのデザインパターン解説シリーズ：Adapter(Wrapper)パターンの活用と悪いコード例",
+      "url": "https://zenn.dev/neko_student/articles/d2f9e6abe8727a",
+      "date_published": "2024-05-28T00:28:00.000Z",
+      "tags": ["java", "map", "デザインパターン", "hash", "set"]
+    },
+    {
+      "id": "f1e0f521a8437d",
+      "title": "SageMakerで請求が止まらない罠: \"Amazon SageMaker CreateVolume-Gp3\"",
+      "url": "https://zenn.dev/neko_student/articles/f1e0f521a8437d",
+      "date_published": "2025-02-09T12:52:38.000Z",
+      "tags": ["AWS", "SageMaker"]
+    },
+    {
+      "id": "f953250e44039a",
+      "title": "AWS CDK 脱初心者・中級者に向けた第一歩=AWS CDK Tipsまとめ~",
+      "url": "https://zenn.dev/neko_student/articles/f953250e44039a",
+      "date_published": "2024-11-28T14:49:17.000Z",
+      "tags": ["AWS", "CDK", "初心者"]
+    },
+    {
+      "id": "book-zeroauth-book",
+      "title": "ゼロから設計するOAuth",
+      "url": "https://zenn.dev/neko_student/books/zeroauth-book",
+      "summary": "「ゼロからOAuthを設計するとどうなるの？」を出発点に、セキュリティ面も気にしながらゼロからOAuthを設計していきます。Day1から順番に設計改善していきます（順次公開予定です）。",
+      "date_published": "2026-06-27T10:10:29.000Z",
+      "tags": ["OAuth", "セキュリティ", "設計", "book"]
+    }
+  ]
+}
