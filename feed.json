@@ -164,6 +164,15 @@
       "tags": ["OAuth", "セキュリティ", "設計", "book"],
       "visibility": ["content", "news"],
       "news_text": "新しい本を公開しました！\n\n「ゼロからOAuthを設計するとどうなるの？」を出発点に、セキュリティ面も気にしながらゼロからOAuthを設計していきます。\n現在day3まで公開中です！"
+    },
+    {
+      "id": "book-zeroauth-book-20260802",
+      "title": "ゼロから設計するOAuth",
+      "url": "https://zenn.dev/neko_student/books/zeroauth-book",
+      "date_published": "2026-08-02T00:00:00.000Z",
+      "tags": ["OAuth", "セキュリティ", "設計", "book"],
+      "visibility": ["news"],
+      "news_text": "「ゼロから設計するOAuth」の構成を大幅に見直しました。\n要件定義→設計→脅威モデリング→リスク対応、という流れで再構成し、1章「要求整理」を公開しました。"
     }
   ]
 }
